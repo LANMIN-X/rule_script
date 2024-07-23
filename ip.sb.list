@@ -1,2 +1,8 @@
 DOMAIN,ip.sb
+DOMAIN,ip.bjango.com
+DOMAIN,ip.istatmenus.app
+DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN,ipv4.ip.sb
+DOMAIN,ipv6.ip.sb
+DOMAIN,api.ip.sb
+DOMAIN-SUFFIX,vxtrans.com
