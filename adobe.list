@@ -1,1 +1,15 @@
-DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobelogin.com
+DOMAIN,firefly-ps.adobe.io
+DOMAIN,firefly.adobe.com
+DOMAIN,firefly-ai.adobe.io
+DOMAIN,assets.adobedtm.com
+DOMAIN-SUFFIX,cctypekit.adobe.io
+DOMAIN-SUFFIX,cc-api-data.adobe.io
+DOMAIN,adobeid-na1.services.adobe.com
+DOMAIN,ims-na1.adobelogin.com
+DOMAIN-SUFFIX,adobe.com
+DOMAIN,services.adobe.com
+DOMAIN,assets.adobe.com
+DOMAIN,cc-api-cp.adobe.io
+DOMAIN,cc-api-storage.adobe.io
+DOMAIN,cc-lb.adobe.io
