@@ -13,3 +13,6 @@ DOMAIN,assets.adobe.com
 DOMAIN,cc-api-cp.adobe.io
 DOMAIN,cc-api-storage.adobe.io
 DOMAIN,cc-lb.adobe.io
+DOMAIN,cc-api-data.adobe.io
+DOMAIN,services.account.adobe.com
+DOMAIN,firefly.adobe.io
