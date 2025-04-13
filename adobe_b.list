@@ -1,1 +1,2 @@
-DOMAIN-SUFFIX,adobe.io
+#DOMAIN-SUFFIX,adobe.io
+DOMAIN-MATCH,^[a-z0-9]{10}\.adobe\.io$
