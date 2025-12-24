@@ -1,15 +1,9 @@
-NAME: OpenAI (Updated)
-AUTHOR: blackmatrix7 + Grok Supplements
-REPO: https://github.com/blackmatrix7/ios_rule_script + https://gist.github.com/sarices/017da597ae6b28063bbdd52693d78385
-UPDATED: 2025-12-24 00:00:00
-DOMAIN: 8
-DOMAIN-KEYWORD: 1
-DOMAIN-SUFFIX: 32
-IP-ASN: 1
-IP-CIDR: 2
-TOTAL: 44
+# NAME: OpenAI (Updated - Fix CDN 429)
+# UPDATED: 2025-12-24
+# TOTAL: 48+
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN,chatgpt.com.cdn.cloudflare.net  # 新增：可能解析路径
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
@@ -36,6 +30,7 @@ DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,cdn.oaistatic.com  # 关键新增：静态资源主域名
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,observeit.net
 DOMAIN-SUFFIX,openai.com
